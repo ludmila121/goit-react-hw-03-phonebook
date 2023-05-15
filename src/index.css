@@ -1,4 +1,4 @@
-@import-normalize; /* bring in normalize.css styles */
+
 
 body {
   margin: 0;
@@ -7,6 +7,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: -apple-system, BlinkMacSystemFont, 'Josefin Sans', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
 }
 
 code {
